@@ -7,5 +7,11 @@ namespace libreria.Data.Migrations
 {
     public class ComprasModel
     {
+        private object hola;
+
+        public ComprasModel()
+        {
+            hola = 0;
+        }
     }
 }
