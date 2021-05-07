@@ -7,6 +7,6 @@ namespace libreria.Data.Models.Libro
 {
     public class LibroCategoriaModel
     {
-        int valor = 255;
+        
     }
 }
